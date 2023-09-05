@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 First End to End project
 ==============================
 first end project from the youtube workshop tutoriel of denna gergis
@@ -56,3 +57,6 @@ Project Organization
 --------
 
 <p><small>Project based on the <a target="_blank" href="https://drivendata.github.io/cookiecutter-data-science/">cookiecutter data science project template</a>. #cookiecutterdatascience</small></p>
+=======
+# IT_jobs_skills_recommendation
+>>>>>>> 1eb674f9af356b790657436d8df8885615ade335
